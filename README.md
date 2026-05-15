@@ -1,3 +1,27 @@
+# EAIKW Portfolio Site
+
+<!-- portfolio-curation -->
+## Portfolio Overview
+Personal portfolio site focused on fast static publishing and clean professional presentation.
+
+**Live site:** http://eaikw.com/
+
+## What This Demonstrates
+- Portfolio systems
+- performance
+- professional identity
+
+## Stack
+Nunjucks, static site tooling
+
+## Portfolio Status
+This repository is part of Keith Williams' curated public portfolio. The README has been updated to explain the project purpose, technical focus, and why the work is worth reviewing.
+<!-- /portfolio-curation -->
+
+---
+
+## Original Notes
+
 # 🎨 Professional Portfolio Website
 
 > A lightning-fast, production-ready portfolio built with modern web
@@ -702,3 +726,4 @@ and continuous learning resources.
 [Request Feature](https://github.com/kaw393939/218_portfolio/issues)
 
 </div>
+
